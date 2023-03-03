@@ -2,6 +2,7 @@ baseURL = 'https://mfokeefe.github.io/'
 languageCode = 'en-us'
 title = "Matthew O'Keefe"
 theme = 'etch'
+publishDir = 'docs'
 
 enableInlineShortcodes = true
 pygmentsCodeFences = true
