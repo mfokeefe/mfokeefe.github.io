@@ -1,0 +1,12 @@
+[submodule "themes/charlolamode"]
+	path = themes/charlolamode
+	url = https://github.com/charlola/hugo-theme-charlolamode.git
+[submodule "themes/salinge"]
+	path = themes/salinge
+	url = https://github.com/jacksalici/salinger-theme.git
+[submodule "themes/salinger"]
+	path = themes/salinger
+	url = https://github.com/jacksalici/salinger-theme.git
+[submodule "themes/hugo-xmin"]
+	path = themes/hugo-xmin
+	url = https://github.com/yihui/hugo-xmin
