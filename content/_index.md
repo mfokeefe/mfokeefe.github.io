@@ -20,7 +20,7 @@ Contact: MatthewOKeefe2023 \[at\] u.northwestern.edu
 
 Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Information Aggregation
 
-Make, Buy, or Share: Wastewater Disposal in the Marcellus Shale
+Make, Buy, or Share: Wastewater Management in the Marcellus Shale ([link](research/papers/wastewater.pdf))
 
 
 
