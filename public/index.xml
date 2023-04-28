@@ -23,7 +23,7 @@ I was a summer intern at Microsoft Research Cambridge in 2021.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://mfokeefe.github.io/research/</guid>
-      <description>Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Information Aggregation Financial transmission right (FTR) prices reveal valuable information about future congestion in electricity markets, facillitating efficient contracting and generation. I explore how electricity market operators&amp;rsquo; contract design choices affect the informational efficiency of FTR auctions. Excessively narrow contracts can lead to thin markets and noisy prices, while overly broad contracts result in information loss. To quantify this tradeoff I build and estimate a stylized empirical model of the Midcontinent ISO (MISO) FTR allocation mechanism.</description>
+      <description>Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Information Aggregation Make, Buy, or Share: Wastewater Management in the Marcellus Shale In many areas of environmental policy, the size of externalities and effectiveness of policy interventions is mediated by the presence of transaction costs. I study how transaction costs affect firms&amp;rsquo; ability to efficiently coordinate wastewater reuse in the Pennsylvania oil and gas industry. Using detailed geographical data, I decompose producers&amp;rsquo; wastewater disposal costs into transportation costs, transaction costs, and markups.</description>
     </item>
     
   </channel>
