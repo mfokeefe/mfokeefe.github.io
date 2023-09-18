@@ -1,0 +1,100 @@
+baseURL: "https://mfokeefe.github.io/" 
+languageCode: "en-us"
+title: "Matthew O'Keefe"
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Home
+          url: ""
+          weight: 1
+        - name: Research
+          url: research/
+          weight: 2
+
+params:
+    description: "Hello world."
+    author:
+    # googleAnalyticsID: ""
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: true
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Matthew O'Keefe
+          subtitle: "Economics PhD student, Northwestern University. <br> Fields: Industrial organization, energy and environmental economics. <br> MatthewOKeefe2023 [at] u.northwestern.edu"
+          imageUrl: "images/Headshot.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Matt
+          buttons:
+            # - name: Home
+            #   url: ""
+            - name: Research
+              url: research/
+            - name: Download CV
+              url: /cv.pdf
+            - name: Contact
+              url: mailto:MatthewOKeefe2023@u.northwestern.edu
+            # - name: Newsletter
+            #   url: https://pmichaillat.substack.com
+    socialIcons:
+        # - name: CV
+        #   url: /cv.pdf
+        # - name: Contact
+        #   url: mailto:matthewokeefe2023@u.northwestern.edu
+        # - name: Location
+        #   url: /location/
+        # - name: Office Hours
+        #   url: /officehours/
+        # - name: Google Scholar
+        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
+        # - name: GitHub
+        #   url: https://github.com/pmichaillat?tab=repositories
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: true
+        hiddenInSingle: true
+    label:
+      text: "Matthew O'Keefe"
+      icon: /favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

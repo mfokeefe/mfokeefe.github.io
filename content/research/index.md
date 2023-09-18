@@ -1,14 +1,32 @@
----
+<!-- ---
 title: Research in progress
----
+--- -->
+
 
 &nbsp;
 
-### Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Information Aggregation
+## Working Papers
+
+__Markets, Hierarchies, and External Costs in Marcellus Shale Wastewater Reuse__ *Draft coming soon*
+
+<details>
+<summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
+
+> Market frictions such as transaction costs create a wedge between the real and shadow costs of polluting activities. I develop an equilibrium model of insourcing and outsourcing to quantify frictions at the firm boundary in the context of the market for fracking wastewater in Pennsylvania. In this setting, firms transport wastewater excessively long distances by truck to avoid market exchange, resulting in inefficient greenhouse gas emissions, air pollution, and elevated spill risk. Counterfactual simulations imply that, under a Pigouvian tax on trucking, marginal external costs are greater than marginal private costs under integration. Conversely, a Pigouvian subsidy to market participation induces sorting on non-targeted components of private cost, raising marginal external costs. In this context, market design interventions can be both a substitute for and complement to conventional environmental regulation.
+
+</details>
+
 
 &nbsp;
 
-### Make, Buy, or Share: Wastewater Management in the Marcellus Shale
+__Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Efficiency__ *Draft coming soon*
+<details>
+<summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
 
-> In many areas of environmental policy, the size of externalities and effectiveness of policy interventions is mediated by the presence of transaction costs. I study how transaction costs affect firms' ability to efficiently coordinate wastewater reuse in the Pennsylvania oil and gas industry. Using detailed geographical data, I decompose producers' wastewater disposal costs into transportation costs, transaction costs, and markups. I find that transaction costs are substantial and lead to excessive wastewater trucking at the margin. Moreover, transaction costs encourage firms to integrate horizontally, potentially resulting in less efficient allocations. Finally, I compare policies aimed at reducing contracting frictions to Pigouvian taxes on trucking. This analysis may inform policy approaches in other shale basins as unconventional drilling becomes more widespread outside the United States.
+> Financial transmission rights (FTRs) are an important class of contracts in decentralized energy markets. This paper explores how market operators' contract design choices affect the efficiency of FTR allocation. With shorter contract tenors, generators and electricity customers can obtain better hedging portfolios for anticipated deliveries. However, short contracts can directly or indirectly reduce market thickness in the FTR auction, leading to welfare losses. In order to understand the significance of this tradeoff I build and estimate a stylized empirical model of the Midcontinent ISO (MISO) FTR allocation mechanism. Relative to a counterfactual with longer contracts, MISO's current contract design reduces welfare losses from congestion risk by $2.4M, or about 1% of total welfare, at firms' estimated risk preferences. However, reduced auction proceeds result in aggregate welfare losses, highlighting the value of careful contract design.
 
+</details>
+
+## Research in Progress
+
+__Information Aggregation in Auctions: Evidence from the MISO FTR Market__
