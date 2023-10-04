@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew O'Keefe
-          subtitle: "Economics PhD student, Northwestern University. <br> Fields: Industrial organization, energy and environmental economics. <br> MatthewOKeefe2023 [at] u.northwestern.edu <br> <br> <b>I will be on the 2023-2024 job market.</b>"
+          subtitle: "Economics PhD candidate, Northwestern University. <br> Fields: Industrial organization, energy and environmental economics. <br> MatthewOKeefe2023 [at] u.northwestern.edu <br> <br> <b>I will be on the 2023-2024 job market.</b>"
           imageUrl: "images/photo.jpg"
           imageWidth: 120
           imageHeight: 180
