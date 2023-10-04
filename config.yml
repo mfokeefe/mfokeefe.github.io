@@ -17,6 +17,10 @@ menu:
         - name: Research
           url: research/
           weight: 2
+        - name: Contact
+          url: mailto:MatthewOKeefe2023@u.northwestern.edu
+          weight: 3
+
 
 params:
     description: "Hello world."
@@ -44,10 +48,10 @@ params:
     profileMode:
           enabled: true
           title: Matthew O'Keefe
-          subtitle: "Economics PhD student, Northwestern University. <br> Fields: Industrial organization, energy and environmental economics. <br> MatthewOKeefe2023 [at] u.northwestern.edu"
-          imageUrl: "images/Headshot.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          subtitle: "Economics PhD student, Northwestern University. <br> Fields: Industrial organization, energy and environmental economics. <br> MatthewOKeefe2023 [at] u.northwestern.edu <br> <br> <b>I will be on the 2023-2024 job market.</b>"
+          imageUrl: "images/photo.jpg"
+          imageWidth: 120
+          imageHeight: 180
           imageTitle: Matt
           buttons:
             # - name: Home
@@ -58,23 +62,11 @@ params:
               url: /cv.pdf
             - name: Contact
               url: mailto:MatthewOKeefe2023@u.northwestern.edu
-            # - name: Newsletter
-            #   url: https://pmichaillat.substack.com
     socialIcons:
         # - name: CV
         #   url: /cv.pdf
         # - name: Contact
         #   url: mailto:matthewokeefe2023@u.northwestern.edu
-        # - name: Location
-        #   url: /location/
-        # - name: Office Hours
-        #   url: /officehours/
-        # - name: Google Scholar
-        #   url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        # - name: YouTube
-        #   url: https://www.youtube.com/@pmichaillat
-        # - name: GitHub
-        #   url: https://github.com/pmichaillat?tab=repositories
 
     assets:
         disableHLJS: true
@@ -83,9 +75,9 @@ params:
         hiddenInList: true
         hiddenInSingle: true
     label:
-      text: "Matthew O'Keefe"
-      icon: /favicon.ico
-      iconHeight: 18
+      # text: "Matthew O'Keefe"
+      # icon: /favicon.ico
+      # iconHeight: 18
 
 markup:
     goldmark:

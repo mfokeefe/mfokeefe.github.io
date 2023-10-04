@@ -7,12 +7,12 @@ title: Research in progress
 
 ## Working Papers
 
-__Markets, Hierarchies, and External Costs in Marcellus Shale Wastewater Reuse__ *Draft coming soon*
+__Firm Boundaries and External Costs in Marcellus Shale Wastewater Reuse__ *Draft coming soon*
 
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
 
-> Governance frictions such as transaction costs create a wedge between the real and shadow costs of abatement in polluting industries. I develop an equilibrium model of insourcing and outsourcing to quantify frictions at the firm boundary in the market for fracking wastewater in Pennsylvania. In this setting, firms transport wastewater excessively long distances by truck to avoid market exchange, resulting in inefficient greenhouse gas emissions, air pollution, and elevated spill risk. The structure of the optimal Pigouvian tax on wastewater hauling depends crucially on whether frictions at the firm boundary are welfare-relevant, which may be ambiguous in practice. Counterfactual simulations imply that misspecification of the social welfare function can lead to substantial welfare losses. Market design interventions that are complementary to conventional regulation can improve the robustness of environmental policy interventions.
+> Shale gas production is highly decentralized, complicating efforts to address the local environmental impacts of fracking. Motivated by this, I analyze optimal environmental regulation when firm boundaries are relevant to external costs. I focus on the market for fracking wastewater in Pennsylvania. In this setting, firms transport wastewater long distances by truck to avoid market exchange, exacerbating greenhouse gas emissions, air pollution, and spill risk. Exploiting regulatory data on firms' insourcing and outsourcing decisions, I embed frictions at the firm boundary in an empirical model of wastewater management. I show that augmenting a simple uniform tax on trucking with outsourcing subsidies can reduce social costs by up to 49% of private trucking costs if frictions at the firm boundary are viewed as internalities. Otherwise, a uniform tax is socially optimal, and results in external costs that are 12% lower. My findings highlight two distinct inference problems for a Pigouvian regulator: the problem of inferring transaction costs, and the problem of assessing their welfare-relevance.
 
 </details>
 
