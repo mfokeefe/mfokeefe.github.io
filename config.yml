@@ -59,7 +59,7 @@ params:
             - name: Research
               url: research/
             - name: Download CV
-              url: /cv.pdf
+              url: /cv_NU.pdf
             - name: Contact
               url: mailto:MatthewOKeefe2023@u.northwestern.edu
     socialIcons:
