@@ -7,7 +7,9 @@ title: Research in progress
 
 ## Working Papers
 
-[__Firm Boundaries and External Costs in Shale Gas Production__](papers/wastewater.pdf)
+__Firm Boundaries and External Costs in Shale Gas Production__
+
+*Draft available upon request*
 
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
@@ -19,7 +21,10 @@ title: Research in progress
 
 &nbsp;
 
-[__Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Efficiency__](papers/ftr.pdf)
+__Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Efficiency__
+
+*Draft available upon request*
+
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
 
