@@ -62,6 +62,8 @@ params:
               url: /cv_NU.pdf
             - name: Contact
               url: mailto:MatthewOKeefe2023@u.northwestern.edu
+            - name: Job Market Site
+              url: https://sites.northwestern.edu/mfo275/
     socialIcons:
         # - name: CV
         #   url: /cv.pdf
