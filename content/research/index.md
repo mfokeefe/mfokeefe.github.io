@@ -7,23 +7,20 @@ title: Research in progress
 
 ## Working Papers
 
-__Firm Boundaries and External Costs in Shale Gas Production__
+[__Firm Boundaries and External Costs in Shale Gas Production__](papers/wastewater.pdf)
 
-*Draft available upon request*
 
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
 
-> Shale gas production is highly decentralized, complicating efforts to address the local environmental impacts of fracking. Motivated by this, I analyze optimal environmental regulation when firm boundaries are relevant to external costs. I focus on the market for fracking wastewater in Pennsylvania. In this setting, firms transport wastewater long distances by truck to avoid market exchange, exacerbating greenhouse gas emissions, air pollution, and spill risk. Exploiting regulatory data on firms' wastewater management decisions, I embed frictions at the firm boundary in an empirical model of insourcing and outsourcing. I show that augmenting a simple uniform tax on trucking with outsourcing subsidies can reduce social costs by up to 64% of private trucking costs if frictions at the firm boundary are viewed as internalities. Otherwise, a uniform tax is socially optimal, and results in external costs that are 14% lower. My findings highlight two distinct inference problems for a Pigouvian regulator: the problem of inferring transaction costs, and the problem of assessing their welfare-relevance.
+> Wastewater reuse in the shale gas industry mitigates many of the local environmental harms associated with fracking, but market frictions such as transaction costs may inhibit socially efficient exchanges of reusable wastewater between rival operators. Exploiting regulatory data on firms' wastewater management decisions in Pennsylvania, I embed frictions at the firm boundary in an empirical model of insourcing and outsourcing. I find that only 55% of insourcing volume is attributable to within-firm cost efficiencies, with the remaining 45% attributable to market frictions. Since firms are geographically clustered, excessive insourcing reduces transportation-related external costs by 13% in equilibrium. A Pigouvian regulator who views frictions at the firm boundary as welfare-irrelevant distortions optimally provides heterogenous outsourcing subsidies in addition to an environmental tax, reducing social costs by up to $0.72 per barrel, but increasing external costs by 14% relative to a policy without subsidies. My findings highlight two distinct inference problems for a Pigouvian regulator: the problem of inferring transaction costs, and the problem of assessing their welfare-relevance.
 
 </details>
 
 
 &nbsp;
 
-__Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Efficiency__
-
-*Draft available upon request*
+[__Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Efficiency__](papers/ftr.pdf)
 
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
@@ -39,6 +36,6 @@ __Information Aggregation in Auctions: Evidence from the MISO FTR Market__
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
 
-> The rate at which market prices aggregate information is difficult to characterize analytically in many realistic environments, such as when ex ante asset endowments are heterogeneous, information is distributed asymmetrically, and the number of competing traders is not known in advance. In this paper, I estimate an empirical model of Bayes-Cournot competition to quantify the rate of information aggregation in financial transmission rights (FTR) auctions, which among other purposes are intended to elicit accurate information about future congestion prices in electricity markets. FTR auctions are particularly well suited to this purpose because key primitives such as ex post asset values, agents' types, and asset endowments are directly observable. Moreover, the structured and multi-round nature of FTR auctions results in significant cross-sectional heterogeneity. I discuss the implications of the model estimates for the design of FTR markets.
+> Financial transmission rights (FTR) markets are characterized by a complex strategic environment. Nevertheless, market prices are often a reliable predictor of future congestion prices. I explore whether the informational efficiency of FTR auctions is likely to carry over to an environment with more volatile congestion patterns (for example, due to greater renewable generation). In order to do so, I estimate an empirical model of Bayes-Cournot competition that microfounds information aggregation in FTR auctions. This approach enables me to account for essential features of FTR markets that are difficult to incorporate into standard empirical models of multiunit auctions, such as endogenous participation and cross-auction information spillovers.
 
 </details>
