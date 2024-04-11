@@ -21,7 +21,7 @@ title: Research in progress
 
 &nbsp;
 
-[__Improving FTR Markets with Better Product Design: Contract Tenor, Market Thickness, and Efficiency__](papers/ftr.pdf)
+[__Product Design in FTR Markets: Contract Tenor, Market Thickness, and Efficiency__](papers/ftr.pdf)
 
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
@@ -34,14 +34,8 @@ title: Research in progress
 
 ## Research in Progress
 
-__Information Aggregation in Auctions: Evidence from the MISO FTR Market__
-
-<details>
-<summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
-
-> Financial transmission rights (FTR) markets are characterized by a complex strategic environment. Nevertheless, market prices are often a reliable predictor of future congestion prices. I explore whether the informational efficiency of FTR auctions is likely to carry over to an environment with more volatile congestion patterns (for example, due to greater renewable generation). In order to do so, I estimate an empirical model of Bayes-Cournot competition that microfounds information aggregation in FTR auctions. This approach enables me to account for essential features of FTR markets that are difficult to incorporate into standard empirical models of multiunit auctions, such as endogenous participation, cross-auction strategic linkages, and cross-auction information spillovers.
-
-</details>
+__Market Power in Financial Transmission Rights Auctions__
+&nbsp;
 &nbsp;
 
 __Misallocation of water. The role of storage__ with Francisco Pareschi

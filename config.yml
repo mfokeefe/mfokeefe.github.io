@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew O'Keefe
-          subtitle: "Economics PhD candidate, Northwestern University. <br> Fields: Industrial organization, energy and environmental economics. <br> mfokeefe [at] u.northwestern.edu <br>"
+          subtitle: "Industrial organization economist interested in energy and power markets. <br><br> I am currently a PhD Candidate in Economics at Northwestern University. Beginning this fall, I will join Vanderbilt University as an Assistant Professor of Economics.<br><br> mfokeefe [at] u.northwestern.edu <br>"
           imageUrl: "images/photo.jpg"
           imageWidth: 120
           imageHeight: 180
@@ -62,8 +62,8 @@ params:
               url: /cv_NU.pdf
             - name: Contact
               url: mailto:MatthewOKeefe2023@u.northwestern.edu
-            - name: Job Market Site
-              url: https://sites.northwestern.edu/mfo275/
+            # - name: Job Market Site
+            # url: https://sites.northwestern.edu/mfo275/
     socialIcons:
         # - name: CV
         #   url: /cv.pdf
