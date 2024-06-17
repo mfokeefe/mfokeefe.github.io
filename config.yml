@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew O'Keefe
-          subtitle: "Industrial organization economist interested in energy and power markets. <br><br> I am currently a PhD Candidate in Economics at Northwestern University. Beginning this fall, I will join Vanderbilt University as an Assistant Professor of Economics.<br><br> mfokeefe [at] u.northwestern.edu <br>"
+          subtitle: "Industrial organization economist interested in energy, power markets, and the environment. <br><br> I recently received my PhD in Economics from Northwestern University. Beginning this fall, I will join Vanderbilt University as an Assistant Professor of Economics.<br><br> mfokeefe [at] u.northwestern.edu <br>"
           imageUrl: "images/photo.jpg"
           imageWidth: 120
           imageHeight: 180

@@ -32,10 +32,10 @@ title: Research in progress
 
 &nbsp;
 
-## Research in Progress
+__Unilateral Market Power in Financial Transmission Rights Auctions__
 
-__Market Power in Financial Transmission Rights Auctions__
 &nbsp;
-&nbsp;
+
+## Research in Progress
 
 __Misallocation of water. The role of storage__ with Francisco Pareschi
