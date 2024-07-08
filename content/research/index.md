@@ -21,18 +21,21 @@ title: Research in progress
 
 &nbsp;
 
-[__Product Design in FTR Markets: Contract Tenor, Market Thickness, and Efficiency__](papers/ftr.pdf)
+
+[__Unilateral Market Power in Financial Transmission Rights Auctions__](papers/ftr3.pdf)
 
 <details>
 <summary style="padding: 10px; border-radius: 5px; cursor: pointer;">Abstract</summary>
 
-> Financial transmission rights (FTRs) are contracts issued by operators of deregulated energy markets for the purpose of creating firm transmission rights and allocating congestion revenues to market participants. This paper explores how the granularity of FTR contracts affects allocative efficiency, given the incentives of financial participants. With shorter contracts, it is feasible for generators and electricity customers (“load”) to obtain better hedging portfolios for anticipated congestion. However, if narrow contracts reduce financial participation, inframarginal financial participants can demand greater risk premia, leading to welfare losses for load firms (who are residual claimants on auction revenues). To quantify this tradeoff I build and estimate an empirical model of financial participation in the Midcontinent ISO (MISO) FTR auction. The model estimates imply that switching from three-month to annual contracts could potentially benefit load firms in MISO by inducing greater competition among financial participants.
+> This paper explores market participants' incentives to exercise unilateral market power in financial transmission rights (FTR) auctions. I present a model of strategic bidding in FTR auctions that illustrates how the standard market clearing mechanism for FTR auctions can facilitate substantial cross-path competition, limiting the profitability of demand reduction. Simulation evidence suggests that unilateral market power may contribute relatively little to persistent auction revenue shortfalls. These findings highlight potential adverse effects of proposed market reforms such as decentralized FTR sales and bidding-path restrictions.
 
 </details>
 
+
 &nbsp;
 
-__Unilateral Market Power in Financial Transmission Rights Auctions__
+
+__Product Design in FTR Markets: Contract Tenor, Market Thickness, and Efficiency__ _Draft available upon request._
 
 &nbsp;
 
