@@ -18,7 +18,7 @@ menu:
           url: research/
           weight: 2
         - name: Contact
-          url: mailto:MatthewOKeefe2023@u.northwestern.edu
+          url: mailto:matthew.okeefe@vanderbilt.edu
           weight: 3
 
 
@@ -48,7 +48,7 @@ params:
     profileMode:
           enabled: true
           title: Matthew O'Keefe
-          subtitle: "Industrial organization economist interested in energy, power markets, and the environment. <br><br> I recently received my PhD in Economics from Northwestern University. Beginning this fall, I will join Vanderbilt University as an Assistant Professor of Economics.<br><br> mfokeefe [at] u.northwestern.edu <br>"
+          subtitle: "Assistant Professor of Economics, Vanderbilt University. <br><br> I am an industrial organization economist interested in energy, power markets, and the environment. I recently received a PhD in Economics from Northwestern University.<br><br>Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>"
           imageUrl: "images/photo.jpg"
           imageWidth: 120
           imageHeight: 180
@@ -61,7 +61,7 @@ params:
             - name: Download CV
               url: /cv.pdf
             - name: Contact
-              url: mailto:MatthewOKeefe2023@u.northwestern.edu
+              url: mailto:matthew.okeefe@vanderbilt.edu
             # - name: Job Market Site
             # url: https://sites.northwestern.edu/mfo275/
     socialIcons:
