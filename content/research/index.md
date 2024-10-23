@@ -21,7 +21,7 @@ Wastewater reuse in the shale gas industry reduces firms' private costs and miti
 
 [__Unilateral Market Power in Financial Transmission Rights Auctions__](papers/ftr3.pdf)
 <br>
-October 2024. Under review.
+October 2024. R&R at The Energy Journal
 
 <div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
 This paper explores market participants' incentives to exercise unilateral market power in financial transmission rights (FTR) auctions. I present a model of strategic bidding in FTR auctions that illustrates how the standard market clearing mechanism for FTR auctions can facilitate substantial cross-path competition, limiting the profitability of demand reduction. Simulation evidence suggests that this force dramatically reduces rents from unilateral market power relative to other sources of auction revenue shortfalls. Proposed market reforms such as decentralized FTR sales and bidding-path restrictions that weaken cross-path competition could potentially worsen shortfalls.
