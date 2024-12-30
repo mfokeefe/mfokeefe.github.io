@@ -7,12 +7,12 @@ title: Research in progress
 
 ## Working Papers
 
-[__Firm Boundaries and External Costs in Shale Gas Production__](papers/wastewater.pdf)
+[__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](papers/wastewater.pdf)
 <br>
-May 2024.
+December 2024.
 
 <div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
-Wastewater reuse in the shale gas industry reduces firms' private costs and mitigates many of the local environmental harms associated with fracking. Most reuse occurs within the firm boundary, but rival operators often exchange (or “share”) wastewater prior to reuse. This paper considers how shale gas producers in Pennsylvania choose between internal reuse and sharing, and whether additional sharing would be environmentally beneficial. To quantify the costs of sharing, I build a novel empirical model of firms' wastewater management decisions. Estimating the model, I find that transaction costs associated with sharing are large — increasing total water-related costs by roughly 10% — but heterogeneous. Variation in the estimates reveals several channels for potential policy interventions to facilitate further sharing. However, counterfactual exercises suggest that such interventions may have limited environmental benefits.
+Abstract Wastewater reuse in the shale gas industry reduces firms' private costs and mitigates many of the local environmental harms associated with fracking. Most reuse occurs within the firm boundary, but rival operators often exchange (or “share”) wastewater prior to reuse. I study the effect of wastewater sharing on reuse rates, transportation efficiency, and other outcomes. I find substantial private benefits from wastewater sharing, and modest external benefits. However, these benefits are diminished by the presence of large transaction costs. I explore the sources of these transaction costs and consider potential policy interventions to improve sharing markets and incentivize reuse.
 </div>
 
 
