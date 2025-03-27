@@ -47,7 +47,7 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true # true
+          enabled: false # true
           title: Matthew O'Keefe
           subtitle: "Assistant Professor of Economics, Vanderbilt University. <br><br> I am an industrial organization economist interested in energy, power markets, and the environment. I recently received a PhD in Economics from Northwestern University.<br><br>Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>"
           imageUrl: "images/photo.jpg"
