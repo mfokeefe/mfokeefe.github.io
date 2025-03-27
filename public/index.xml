@@ -8,22 +8,14 @@
     <language>en-us</language><atom:link href="https://mfokeefe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://mfokeefe.github.io/about/</link>
+      <link>https://mfokeefe.github.io/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mfokeefe.github.io/about/</guid>
-      <description>I am broadly interested in industrial organization, the economics of organizations, innovation, and econometrics.
-Before Northwestern I completed an undergraduate degree in math and economics at the University of Chicago. I was a summer intern at Microsoft Research Cambridge in 2021..</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://mfokeefe.github.io/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mfokeefe.github.io/research/</guid>
-      <description>Working Papers Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse December 2024.
-Wastewater reuse in the shale gas industry reduces firms&#39; private costs and mitigates many of the local environmental harms associated with fracking. Most reuse occurs within the firm boundary, but rival operators often exchange (or “share”) wastewater prior to reuse. I study the effect of wastewater sharing on reuse rates, transportation efficiency, and other outcomes.</description>
+      <guid>https://mfokeefe.github.io/</guid>
+      <description>Matthew O&amp;rsquo;Keefe Assistant Professor of Economics, Vanderbilt University
+I am an industrial organization economist interested in energy, power markets, and the environment. I recently received a PhD in Economics from Northwestern University.
+Email: matthew.okeefe@vanderbilt.edu Publications Unilateral Market Power in Financial Transmission Rights Auctions The Energy Journal, Forthcoming. https://doi.org/10.1177/01956574241303737 Working Papers Identification and Estimation of Auction Models with Dual Risk-Averse Bidders with Tong Li and Jingfeng Lu. March 2025.
+Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse December 2024.</description>
     </item>
     
   </channel>

@@ -11,15 +11,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Home
-          url: ""
-          weight: 1
-        - name: Research
-          url: research/
-          weight: 2
         - name: Contact
           url: mailto:matthew.okeefe@vanderbilt.edu
+          weight: 1
+        - name: Download CV
+          url: "/cv.pdf"
+          weight: 2
+        - name: Bio
+          url: "https://as.vanderbilt.edu/economics/bio/matthew-okeefe/" #/research
           weight: 3
+
 
 
 params:
@@ -46,7 +47,7 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: true
+          enabled: true # true
           title: Matthew O'Keefe
           subtitle: "Assistant Professor of Economics, Vanderbilt University. <br><br> I am an industrial organization economist interested in energy, power markets, and the environment. I recently received a PhD in Economics from Northwestern University.<br><br>Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>"
           imageUrl: "images/photo.jpg"
