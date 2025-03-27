@@ -12,19 +12,21 @@ I am an industrial organization economist interested in energy, power markets, a
 Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>
 
 
+<br>
 
-<!-- ---
-<a class="button" href="/cv.pdf" rel="noopener" title="CV button">
-  <span class="button-inner">
-    Download CV
-  </span>
-</a>
 
 <a class="button" href="mailto:matthew.okeefe@vanderbilt.edu" rel="noopener" title="Email button">
   <span class="button-inner">
     Contact
   </span>
 </a>
+
+<a class="button" href="/cv.pdf" rel="noopener" title="CV button">
+  <span class="button-inner">
+    Download CV
+  </span>
+</a>
+
 
 <a class="button" href="https://as.vanderbilt.edu/economics/bio/matthew-okeefe/" rel="noopener" title="Vandy button">
   <span class="button-inner">
@@ -36,7 +38,6 @@ Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.
     </svg>
   </span>
 </a>
---- -->
 
 
 
@@ -64,6 +65,7 @@ title: Research in progress
 __Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__
 <br>
 with Tong Li and Jingfeng Lu. March 2025.
+
 
 [__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](papers/wastewater.pdf)
 <br>
