@@ -55,7 +55,7 @@ title: Research in progress
 ## Publications {#research}
 
 
-[__Unilateral Market Power in Financial Transmission Rights Auctions__](papers/ftr3.pdf)
+[__Unilateral Market Power in Financial Transmission Rights Auctions__](research/papers/ftr3.pdf)
 <br>
 *The Energy Journal*, Forthcoming. [https://doi.org/10.1177/01956574241303737](https://doi.org/10.1177/01956574241303737)
 
@@ -70,7 +70,7 @@ __Identification and Estimation of Auction Models with Dual Risk-Averse Bidders_
 with Tong Li and Jingfeng Lu. March 2025.
 
 
-[__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](papers/wastewater.pdf)
+[__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](research/papers/wastewater.pdf)
 <br>
 December 2024.
 
