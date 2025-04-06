@@ -70,6 +70,11 @@ __Identification and Estimation of Auction Models with Dual Risk-Averse Bidders_
 with Tong Li and Jingfeng Lu. March 2025.
 
 
+__Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__
+<br>
+with Tong Li and Jingfeng Lu. March 2025.
+
+
 [__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](research/papers/wastewater.pdf)
 <br>
 December 2024.
