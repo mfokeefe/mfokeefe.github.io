@@ -69,16 +69,13 @@ __Identification and Estimation of Auction Models with Dual Risk-Averse Bidders_
 <br>
 with Tong Li and Jingfeng Lu. March 2025.
 
-<div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
-We develop an empirical model of auctions in which bidders have non-expected utility preferences described by Yaari (1987)’s dual utility theory. Yaari’s dual utility admits risk-aversion but remains linear in wealth, offering an appealing framework for auctions in which bidders are profit-maximizing firms. We show that identification is analogous to identification in models of expected utility maximization (Guerre et al., 2009), while estimation and equilibrium computation are comparatively simpler. Applying our estimation method to bidding data from United States Forest Service (USFS) timber sales, we find evidence of bidder risk aversion that we confirm by testing a shape restriction. We use the resulting estimates to quantify the expected increase in USFS revenue from adopting an optimal reserve price.
-</div>
-
-<br>
-
+&nbsp;
 
 __Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__
 <br>
 with Tong Li and Jingfeng Lu. March 2025.
+
+&nbsp;
 
 
 [__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](research/papers/wastewater.pdf)
