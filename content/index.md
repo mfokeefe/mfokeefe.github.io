@@ -7,7 +7,7 @@
 
 Assistant Professor of Economics, Vanderbilt University
 
-I am an industrial organization economist interested in energy, power markets, and the environment. I recently received a PhD in Economics from Northwestern University.
+Microeconomist interested in energy, power markets, and the environment.
 
 Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>
 
@@ -55,9 +55,9 @@ title: Research in progress
 ## Publications {#research}
 
 
-[__Unilateral Market Power in Financial Transmission Rights Auctions__](research/papers/ftr3.pdf)
+[__Unilateral Market Power in Financial Transmission Rights Auctions__](https://doi.org/10.1177/01956574241303737)
 <br>
-*The Energy Journal*, Forthcoming. [https://doi.org/10.1177/01956574241303737](https://doi.org/10.1177/01956574241303737)
+*The Energy Journal*, 46 (3), 103-122.
 
 
 &nbsp;
@@ -65,26 +65,32 @@ title: Research in progress
 
 ## Working Papers
 
+[__Price Adjustment and Competition in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
+<br>
+
+<div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
+Sales from the US Strategic Petroleum Reserve (SPR) are conducted using basis auctions, in which winning bidders' final payments are indexed to spot prices. This mechanism can eliminate potential inefficiencies arising from private information about the evolution of oil prices between auction and delivery, benefiting the seller (the US government). Reduced form evidence suggests that bids in SPR sales are consistent with pure private values despite significant uncertainty and a deep resale market. In a stylized model calibrated to the 2022 SPR drawdown, the use of basis auctions generates tens of millions of dollars in savings with limited private information.
+</div>
+
+
+&nbsp;
+&nbsp;
+
 __Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__
 <br>
-with Tong Li and Jingfeng Lu. March 2025.
+with Tong Li and Jingfeng Lu.
 
 &nbsp;
 
 __Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__
 <br>
-with Tong Li and Jingfeng Lu. March 2025.
+with Tong Li and Jingfeng Lu.
 
 &nbsp;
 
 
 [__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](research/papers/wastewater.pdf)
 <br>
-December 2024.
-
-<div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
-Wastewater reuse in the shale gas industry reduces firms' private costs and mitigates many of the local environmental harms associated with fracking. Most reuse occurs within the firm boundary, but rival operators often exchange (or “share”) wastewater prior to reuse. I study the effect of wastewater sharing on reuse rates, transportation efficiency, and other outcomes. I find substantial private benefits from wastewater sharing, and modest external benefits. However, these benefits are diminished by the presence of large transaction costs. I explore the sources of these transaction costs and consider potential policy interventions to improve sharing markets and incentivize reuse.
-</div>
 
 
 &nbsp;
@@ -96,3 +102,11 @@ Wastewater reuse in the shale gas industry reduces firms' private costs and miti
 ## Research in Progress
 
 __Misallocation of water. The role of storage__ with Francisco Pareschi
+
+&nbsp;
+
+## Teaching
+
+__Econ 9500: Industrial Organization I__ Vanderbilt University (PhD)
+
+__Econ 3893: Selected Microeconomic Topics (Energy Economics)__ Vanderbilt University (Undergraduate)
