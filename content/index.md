@@ -57,7 +57,7 @@ title: Research in progress
 
 [__Unilateral Market Power in Financial Transmission Rights Auctions__](https://doi.org/10.1177/01956574241303737)
 <br>
-*The Energy Journal*, 46 (3), 103-122.
+*The Energy Journal*, 46 (3), 103-122 (2025).
 
 
 &nbsp;
