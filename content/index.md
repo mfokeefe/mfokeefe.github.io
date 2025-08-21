@@ -76,6 +76,20 @@ Sales from the US Strategic Petroleum Reserve (SPR) are conducted using basis au
 &nbsp;
 &nbsp;
 
+
+
+[__Make, Buy, or Share: Understanding Produced Water Reuse in the Marcellus Shale__](research/papers/wastewater.pdf)
+<br>
+
+<div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
+Wastewater reuse in the shale gas industry mitigates environmental harms while reducing firms' private costs. Most reuse occurs within the firm boundary, but rival operators often exchange (or “share”) wastewater prior to reuse. I quantify private cost savings from reuse and sharing among Pennsylvania producers during the shale boom using an empirical model of transferrable utility matching. Model estimates imply that private cost savings are substantial but modest relevate to producer revenue, ruling out large rebound effects. I also find that sharing is subject to large transaction costs, implying that equilibrium consumption and disposal may be inefficiently high.
+</div>
+
+
+&nbsp;
+&nbsp;
+
+
 __Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__
 <br>
 with Tong Li and Jingfeng Lu.
@@ -87,15 +101,7 @@ __Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Aucti
 with Tong Li and Jingfeng Lu.
 
 &nbsp;
-
-
-[__Make, Buy, or Share: The Role of Interfirm Trade in Fracking Wastewater Reuse__](research/papers/wastewater.pdf)
-<br>
-
-
 &nbsp;
-
-
 
 
 
