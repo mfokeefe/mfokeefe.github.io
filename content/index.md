@@ -65,28 +65,17 @@ title: Research in progress
 
 ## Working Papers
 
-[__Price Adjustment and Competition in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
-<br>
-
-<div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
-Sales from the US Strategic Petroleum Reserve (SPR) are conducted using basis auctions, in which winning bidders' final payments are indexed to spot prices. This mechanism can eliminate potential inefficiencies arising from private information about the evolution of oil prices between auction and delivery, benefiting the seller (the US government). Reduced form evidence suggests that bids in SPR sales are consistent with pure private values despite significant uncertainty and a deep resale market. In a stylized model calibrated to the 2022 SPR drawdown, the use of basis auctions generates tens of millions of dollars in savings with limited private information.
-</div>
-
-
-&nbsp;
-&nbsp;
-
-
 
 [__Make, Buy, or Share: Understanding Produced Water Reuse in the Marcellus Shale__](research/papers/wastewater.pdf)
 <br>
 
-<div style="font-size: 0.9em; margin-left: 25px; text-align: justify;">
-Wastewater reuse in the shale gas industry mitigates environmental harms while reducing firms' private costs. Most reuse occurs within the firm boundary, but rival operators often exchange (or “share”) wastewater prior to reuse. I quantify private cost savings from reuse and sharing among Pennsylvania producers during the shale boom using an empirical model of transferrable utility matching. Model estimates imply that private cost savings are substantial but modest relevate to producer revenue, ruling out large rebound effects. I also find that sharing is subject to large transaction costs, implying that equilibrium consumption and disposal may be inefficiently high.
-</div>
-
-
 &nbsp;
+
+
+[__Price Adjustment and Competition in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
+<br>
+Revise and Resubmit, *American Economic Journal: Economic Policy*
+
 &nbsp;
 
 
@@ -107,7 +96,9 @@ with Tong Li and Jingfeng Lu.
 
 ## Research in Progress
 
-__Misallocation of water. The role of storage__ with Francisco Pareschi
+__Misallocation of water. The role of storage__
+<br>
+with Francisco Pareschi
 
 &nbsp;
 
