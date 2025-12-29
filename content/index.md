@@ -7,7 +7,7 @@
 
 Assistant Professor of Economics, Vanderbilt University
 
-Microeconomist interested in energy, power markets, and the environment.
+Industrial organization economist interested in energy, power markets, and the environment.
 
 Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>
 
@@ -66,31 +66,36 @@ title: Research in progress
 ## Working Papers
 
 
+[__Index-Based Price Adjustment in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
+<br>
+Revise and Resubmit, *American Economic Journal: Economic Policy*.
+
+&nbsp;
+
+
+
+
+[__Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__](research/papers/neuIdentification.pdf)
+<br>
+with Tong Li and Jingfeng Lu.
+
+&nbsp;
+
+[__Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__](research/papers/neuReserves.pdf)
+<br>
+with Tong Li and Jingfeng Lu.
+
+&nbsp;
+
+
 [__Make, Buy, or Share: Understanding Produced Water Reuse in the Marcellus Shale__](research/papers/wastewater.pdf)
 <br>
 
-&nbsp;
-
-
-[__Price Adjustment and Competition in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
-<br>
-Revise and Resubmit, *American Economic Journal: Economic Policy*
-
-&nbsp;
-
-
-__Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__
-<br>
-with Tong Li and Jingfeng Lu.
-
-&nbsp;
-
-__Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__
-<br>
-with Tong Li and Jingfeng Lu.
 
 &nbsp;
 &nbsp;
+
+
 
 
 
