@@ -68,7 +68,7 @@ title: Research in progress
 
 [__Index-Based Price Adjustment in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
 <br>
-Revise and Resubmit, *American Economic Journal: Economic Policy*.
+Conditionally Accepted, *American Economic Journal: Economic Policy*.
 
 &nbsp;
 
