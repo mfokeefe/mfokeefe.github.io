@@ -69,6 +69,8 @@ title: Research in progress
 [__Index-Based Price Adjustment in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
 <br>
 Conditionally Accepted, *American Economic Journal: Economic Policy*.
+<br>
+[Online Appendix](research/papers/sprAppendix.pdf)
 
 &nbsp;
 
@@ -78,6 +80,7 @@ Conditionally Accepted, *American Economic Journal: Economic Policy*.
 [__Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__](research/papers/neuIdentification.pdf)
 <br>
 with Tong Li and Jingfeng Lu.
+Revise and Resubmit, *Quantitative Economics*
 
 &nbsp;
 
@@ -101,14 +104,20 @@ with Tong Li and Jingfeng Lu.
 
 ## Research in Progress
 
-__Misallocation of water. The role of storage__
+__Misallocation of Water. The Role of Storage__
 <br>
 with Francisco Pareschi
+
+__Equilibrium Impacts of Production Subsidies for Nuclear Power__
+
 
 &nbsp;
 
 ## Teaching
 
-__Econ 9500: Industrial Organization I__ Vanderbilt University (PhD)
+__Econ 9500: Industrial Organization I__ (PhD)
 
-__Econ 3893: Selected Microeconomic Topics (Energy Economics)__ Vanderbilt University (Undergraduate)
+__Econ 6600: Econometrics__ (MA)
+
+__Econ 3893: Selected Microeconomic Topics (Energy Economics)__
+
