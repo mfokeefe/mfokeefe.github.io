@@ -79,12 +79,11 @@ Conditionally Accepted, *American Economic Journal: Economic Policy*.
 
 [__Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__](research/papers/neuIdentification.pdf)
 <br>
-with Tong Li and Jingfeng Lu.
-Revise and Resubmit, *Quantitative Economics*
+with Tong Li and Jingfeng Lu. Revise and Resubmit, *Quantitative Economics*.
 
 &nbsp;
 
-[__Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__](research/papers/neuReserves.pdf)
+[__Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6532499)
 <br>
 with Tong Li and Jingfeng Lu.
 
