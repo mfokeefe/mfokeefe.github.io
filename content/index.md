@@ -90,7 +90,7 @@ with Tong Li and Jingfeng Lu.
 &nbsp;
 
 
-[__Make, Buy, or Share: Understanding Produced Water Reuse in the Marcellus Shale__](research/papers/wastewater.pdf)
+[__Make, Buy, or Share: An Empirical Model of Wastewater Management in the Shale Gas Industry__](research/papers/wastewater.pdf)
 <br>
 
 
