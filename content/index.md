@@ -107,8 +107,6 @@ __Misallocation of Water. The Role of Storage__
 <br>
 with Francisco Pareschi
 
-__Equilibrium Impacts of Production Subsidies for Nuclear Power__
-
 
 &nbsp;
 
