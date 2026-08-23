@@ -83,14 +83,14 @@ with Tong Li and Jingfeng Lu. Revise and Resubmit, *Quantitative Economics*.
 
 &nbsp;
 
-[__Dual Risk Aversion and Optimal Reserve Prices in First- and Second-Price Auctions__](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6532499)
+[__Optimal First- and Second-Price Auctions Under Dual Risk Aversion__](research/papers/neuReserves.pdf)
 <br>
 with Tong Li and Jingfeng Lu.
 
 &nbsp;
 
 
-[__Make, Buy, or Share: An Empirical Model of Wastewater Management in the Shale Gas Industry__](research/papers/wastewater.pdf)
+[__Firm Boundaries and Produced Water Reuse in the Marcellus Shale__](research/papers/wastewater.pdf)
 <br>
 
 
@@ -99,13 +99,6 @@ with Tong Li and Jingfeng Lu.
 
 
 
-
-
-## Research in Progress
-
-__Misallocation of Water. The Role of Storage__
-<br>
-with Francisco Pareschi
 
 
 &nbsp;
