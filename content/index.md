@@ -83,6 +83,13 @@ with Tong Li and Jingfeng Lu. Revise and Resubmit, *Quantitative Economics*.
 
 &nbsp;
 
+
+__Equilibrium Impacts of Production Subsidies for Nuclear Power__
+<br>
+Revise and Resubmit, *Energy Economics*.
+
+&nbsp;
+
 [__Optimal First- and Second-Price Auctions Under Dual Risk Aversion__](research/papers/neuReserves.pdf)
 <br>
 with Tong Li and Jingfeng Lu.
@@ -92,6 +99,10 @@ with Tong Li and Jingfeng Lu.
 
 [__Firm Boundaries and Produced Water Reuse in the Marcellus Shale__](research/papers/wastewater.pdf)
 <br>
+
+&nbsp;
+
+
 
 
 &nbsp;
