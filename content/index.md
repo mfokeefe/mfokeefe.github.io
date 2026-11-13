@@ -7,8 +7,6 @@
 
 Assistant Professor of Economics, Vanderbilt University
 
-Industrial organization economist interested in energy, power markets, and the environment.
-
 Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.edu</a> <br>
 
 
@@ -27,6 +25,17 @@ Email: <a href='mailto:matthew.okeefe@vanderbilt.edu'>matthew.okeefe@vanderbilt.
   </span>
 </a>
 
+
+<a class="button" href="https://scholar.google.com/citations?user=FkQExagAAAAJ&hl=en&oi=ao" rel="noopener" title="Scholar button">
+  <span class="button-inner">
+    Google Scholar
+    &nbsp;<svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="14" width="14">
+      <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+      <path d="M15 3h6v6"></path>
+      <path d="M10 14L21 3"></path>
+    </svg>
+  </span>
+</a>
 
 <a class="button" href="https://as.vanderbilt.edu/economics/bio/matthew-okeefe/" rel="noopener" title="Vandy button">
   <span class="button-inner">
@@ -51,13 +60,35 @@ title: Research in progress
 
 &nbsp;
 
+## Teaching
+
+__Econ 9500: Industrial Organization I__ (PhD)
+
+__Econ 6600: Econometrics__ (MA)
+
+__Econ 3893: Selected Microeconomic Topics (Energy Economics)__
+
+
+
+&nbsp;
+
 
 ## Publications {#research}
+
+
+[__Index-Based Price Adjustment in US Strategic Petroleum Reserve Drawdowns__](https://www.aeaweb.org/articles?id=10.1257/pol.20250505&&from=f)
+<br>
+*American Economic Journal: Economic Policy*, Forthcoming.
+<br>
+[Manuscript](research/papers/spr.pdf) &nbsp; [Online Appendix](research/papers/sprAppendix.pdf)
+
+&nbsp;
 
 
 [__Unilateral Market Power in Financial Transmission Rights Auctions__](https://doi.org/10.1177/01956574241303737)
 <br>
 *The Energy Journal*, 46 (3), 103-122 (2025).
+
 
 
 &nbsp;
@@ -66,20 +97,12 @@ title: Research in progress
 ## Working Papers
 
 
-[__Index-Based Price Adjustment in US Strategic Petroleum Reserve Drawdowns__](research/papers/spr.pdf)
-<br>
-Conditionally Accepted, *American Economic Journal: Economic Policy*.
-<br>
-[Online Appendix](research/papers/sprAppendix.pdf)
-
-&nbsp;
-
-
-
 
 [__Identification and Estimation of Auction Models with Dual Risk-Averse Bidders__](research/papers/neuIdentification.pdf)
 <br>
-with Tong Li and Jingfeng Lu. Revise and Resubmit, *Quantitative Economics*.
+with Tong Li and Jingfeng Lu.
+<br>
+Revise and Resubmit, *Quantitative Economics*.
 
 &nbsp;
 
@@ -93,6 +116,9 @@ Revise and Resubmit, *Energy Economics*.
 [__Optimal First- and Second-Price Auctions Under Dual Risk Aversion__](research/papers/neuReserves.pdf)
 <br>
 with Tong Li and Jingfeng Lu.
+<br>
+Revise and Resubmit, *Economic Theory*.
+
 
 &nbsp;
 
@@ -109,16 +135,4 @@ with Tong Li and Jingfeng Lu.
 &nbsp;
 
 
-
-
-
-&nbsp;
-
-## Teaching
-
-__Econ 9500: Industrial Organization I__ (PhD)
-
-__Econ 6600: Econometrics__ (MA)
-
-__Econ 3893: Selected Microeconomic Topics (Energy Economics)__
 
